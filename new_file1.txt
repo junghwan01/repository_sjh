@@ -1,3 +1,6 @@
 Hello! My name is Seo Jung Hwan.
-Kumoh National Institute of Technology.
-This file was made "2023-11-16"
+KIT(Kumoh National Institute of Technology).
+
+Computer Sciences
+C Programming
+Object-oriented programming
